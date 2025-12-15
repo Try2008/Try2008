@@ -13,9 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+W ווינדוס ועוד נקודה פותח את האימוגים
+
+Live Demo - רק לפרונטאנד ווב. אחרת זה רק קוד והסבר על הקוד - נניח התרגיל או הפרוייקט או שגיפי יגיד מה עושים
 -->
 
 # FullStack WebDeveloper Course: Talpiot-Hitech
-- whatsapp-responsive-layout-css
-- input-to-paragraph-app
-- programmable-board-builder
+
+<details>
+<summary> Exercises 📚 </summary>
+  
+- [programmable-board-builder](https://github.com/Try2008/programmable-board-builder)
+- [input-to-paragraph-app](https://github.com/Try2008/input-to-paragraph-app)
+- [whatsapp-responsive-layout-css](https://github.com/Try2008/whatsapp-responsive-layout-css)
+
+</details>
+
+## Projects 💽
