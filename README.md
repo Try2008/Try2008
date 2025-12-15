@@ -22,7 +22,7 @@
 
 ## 🧩 Personal Projects
 
-<!-- Add personal project links here like from Xplace etc -->
+<!-- Add personal project links here like from Xplace etc  לחלק את זה לנושאים ותפריט נפתח-->
 
 ---
 
