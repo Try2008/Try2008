@@ -14,6 +14,7 @@
 - [input-to-paragraph-app](https://github.com/Try2008/input-to-paragraph-app)
 - [whatsapp-responsive-layout-css](https://github.com/Try2008/whatsapp-responsive-layout-css)
 - [green-squares-bg-toggle](https://github.com/Try2008/green-squares-bg-toggle)
+- [click-to-remove-circles](https://github.com/Try2008/click-to-remove-circles)
 
 </details>
 
