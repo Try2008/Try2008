@@ -13,6 +13,7 @@
 - [programmable-board-builder](https://github.com/Try2008/programmable-board-builder)
 - [input-to-paragraph-app](https://github.com/Try2008/input-to-paragraph-app)
 - [whatsapp-responsive-layout-css](https://github.com/Try2008/whatsapp-responsive-layout-css)
+- [green-squares-bg-toggle](https://github.com/Try2008/green-squares-bg-toggle)
 
 </details>
 
