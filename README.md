@@ -25,7 +25,9 @@
 
 ## 🧩 Personal Projects
 
-<!-- Add personal project links here like from Xplace etc  לחלק את זה לנושאים ותפריט נפתח-->
+<!-- Add personal project links here like from Xplace etc  לחלק את זה לנושאים ותפריט נפתח + 
+nלא לשכוח שפרוייקטים שאני מכין כמו אתרים או מערכות שאי אפשר לחשוף את הקוד, לשים קישור אליהם פשוט כתיק עבודות ואז אפשר לראות את תיק העבודות שלי שכולל את העיצובים ואת הכול מ
+-->
 
 ---
 
