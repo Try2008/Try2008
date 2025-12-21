@@ -16,6 +16,7 @@
 - [green-squares-bg-toggle](https://github.com/Try2008/green-squares-bg-toggle)
 - [click-to-remove-circles](https://github.com/Try2008/click-to-remove-circles)
 - [enter-to-title-updater](https://github.com/Try2008/enter-to-title-updater)
+- [input-modulo-color-switcher](https://github.com/Try2008/input-modulo-color-switcher)
 
 </details>
 
