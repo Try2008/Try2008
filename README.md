@@ -18,6 +18,7 @@
 - [enter-to-title-updater](https://github.com/Try2008/enter-to-title-updater)
 - [input-modulo-color-switcher](https://github.com/Try2008/input-modulo-color-switcher)
 - [mouse-quadrant-color-box](https://github.com/Try2008/mouse-quadrant-color-box)
+- [center-modal-overlay](https://github.com/Try2008/center-modal-overlay)
 
 </details>
 
