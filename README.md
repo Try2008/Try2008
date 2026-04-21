@@ -8,6 +8,7 @@ Experienced QA professional with a strong technical background in software testi
 automation, and web development. I combine hands-on industry experience with
 up-to-date skills in modern testing frameworks and development tools.
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barak-yanko)
 [![Email](https://img.shields.io/badge/Email-barak150%40gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:barak150@gmail.com)
 
 </div>
@@ -100,4 +101,5 @@ Built and maintained a content-driven web platform with custom management interf
 > > I'm open to QA and development opportunities, technical conversations, and collaborations.
 > > Response time: within 24 hours.
 > >
+> > [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/barak-yanko)
 > > 📧 barak150@gmail.com
